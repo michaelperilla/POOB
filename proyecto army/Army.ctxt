@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Army
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Army\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=pos\ ncolor
+comment1.target=Army(int[],\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Army\r\n
+comment2.params=
+comment2.target=void\ makeVisible()
+comment3.params=
+comment3.target=void\ makeInvisible()
+comment4.params=
+comment4.target=java.lang.String\ getColor()
+numComments=5

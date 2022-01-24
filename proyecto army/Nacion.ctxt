@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Nacion
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Nacion\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=ncolor\ Posx\ Posy\ armies
+comment1.target=Nacion(java.lang.String,\ int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ de\ la\ clase\r\n
+comment2.params=
+comment2.target=void\ makeVisible()
+comment2.text=\r\n\ Este\ m\u00E9todo\ har\u00E1\ visible\ las\ naciones\r\n
+comment3.params=
+comment3.target=void\ makeInvisible()
+comment3.text=\r\n\ Este\ m\u00E9todo\ har\u00E1\ invisible\ la\ naci\u00F3n\r\n
+comment4.params=
+comment4.target=java.lang.String\ getColor()
+comment4.text=\r\n\ Este\ m\u00E9todo\ retornar\u00E1\ el\ color\ que\ tiene\ la\ naci\u00F3n\r\n\ @Return\ retornar\u00E1\ un\ String\ con\ el\ color\ que\ tiene\ la\ naci\u00F3n\r\n
+comment5.params=
+comment5.target=int[]\ getPos()
+comment5.text=\r\n\ Este\ m\u00E9todo\ retornar\u00E1\ la\ posici\u00F3n\ de\ la\ naci\u00F3n\r\n\ @Return\ retornar\u00E1\ una\ lista\ de\ enteros\ los\ cuales\ dir\u00E1n\ cu\u00E1l\ es\ la\ posici\u00F3n\ x\ y\ y\ de\ la\ naci\u00F3n\r\n
+comment6.params=
+comment6.target=int\ getArmies()
+comment7.params=
+comment7.target=void\ conquers()
+comment8.params=
+comment8.target=void\ conquersnt()
+comment9.params=
+comment9.target=int\ getConquer()
+numComments=10

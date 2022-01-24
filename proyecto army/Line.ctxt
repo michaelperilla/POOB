@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Line
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Line\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=xa\ ya\ xb\ yb\ ncolor
+comment1.target=Line(int,\ int,\ int,\ int,\ java.lang.String)
+comment1.text=\r\n\ El\ constructor\ de\ la\ clase\ Line\r\n\ @Param\ xa\ recibe\ la\ posici\u00F3n\ x\ de\ la\ primer\ nacion\r\n\ @Param\ ya\ recibe\ la\ posici\u00F3n\ y\ de\ la\ primer\ nacion\r\n\ @Param\ xb\ recibe\ la\ posici\u00F3n\ x\ de\ la\ segunda\ nacion\r\n\ @Param\ yb\ recibe\ la\ posici\u00F3n\ y\ de\ la\ segunda\ nacion\r\n\ @Param\ ncolor\ recibe\ el\ color\ que\ tendr\u00E1\ la\ ruta\r\n
+comment2.params=
+comment2.target=void\ makeVisible()
+comment2.text=\r\n\ El\ metodo\ que\ har\u00E1\ visible\ la\ l\u00EDnea\r\n
+comment3.params=
+comment3.target=void\ makeInvisible()
+comment3.text=\r\n\ El\ metodo\ que\ har\u00E1\ invisible\ la\ l\u00EDnea\r\n
+comment4.params=
+comment4.target=void\ draw()
+comment4.text=\r\n\ Este\ metodo\ dibujar\u00E1\ la\ l\u00EDnea\ dependiendo\ de\ los\ parametros\ recibidos\r\n
+comment5.params=
+comment5.target=void\ erase()
+comment5.text=\r\n\ Este\ metodo\ borrar\u00E1\ este\ objeto\r\n
+numComments=6
